@@ -1,4 +1,5 @@
 INTRODUCTION
+
 Real-time search-and-rescue robots are increasingly used to supplement the efforts of the first responders in areas affected by natural disasters. They are used to spot-check the situational awareness of people in distress, survey the extent of flood or tornado damage, evaluate the number of people that had not been evacuated from their neighborhoods, clean debris, and create passable routes.
 
 For this task, you will use the Coppelia Robotics virtual robot and its environment to demonstrate how such robots may be used in disaster recovery. Your first step is to familiarize yourself with this technology by reviewing the information in the “Coppelia Robotics Resources Page” and “CoppeliaSim User Manual” provided in the Web Links section.
@@ -6,6 +7,7 @@ For this task, you will use the Coppelia Robotics virtual robot and its environm
 For the next step, you will thoroughly describe a disaster situation similar to the ones mentioned above. Next, you will create a virtual prototype of an autonomous robotic recovery system that demonstrates goal-seeking behaviors in navigating through a predefined area. The robotic recovery system will solve a disaster recovery problem of your choice by using the Coppelia Robotics BubbleRob and its environment as the starting point of your prototyping. You will also add sensors to the robot. These sensors will collect vital information to aid in the disaster recovery effort for the scenario you described.
 
 REQUIREMENTS
+
 Your submission must be your original work. No more than a combined total of 30% of the submission and no more than a 10% match to any one individual source can be directly quoted or closely paraphrased from sources, even if cited correctly. The similarity report that is provided when you submit your task can be used as a guide.
 
 You must use the rubric to direct the creation of your submission because it provides detailed criteria that will be used to evaluate your work. Each requirement below may be evaluated by more than one rubric aspect. The rubric aspect titles may contain hyperlinks to relevant portions of the course.
